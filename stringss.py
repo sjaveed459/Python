@@ -21,3 +21,5 @@ name = name.strip().title()
 
 # we can include all these in sigle line code
 enter_name = input("What is your name? ").strip().title()
+
+print("Hello",enter_name)
